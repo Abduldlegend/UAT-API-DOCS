@@ -23,7 +23,7 @@
     `;
 
     // 3. Append the widget directly to the body
-    // document.body.appendChild(widgetContainer);
+    document.body.appendChild(widgetContainer);
 
     // 4. Interactivity Logic
     const launcher = document.getElementById('chat-launcher');
